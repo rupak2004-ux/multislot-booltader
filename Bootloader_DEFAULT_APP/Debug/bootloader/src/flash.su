@@ -1,0 +1,12 @@
+../bootloader/src/flash.c:21:23:_bank_from_page	16	static
+../bootloader/src/flash.c:26:24:_page_in_bank	16	static
+../bootloader/src/flash.c:32:9:FLASH_UNLOCK	4	static
+../bootloader/src/flash.c:42:6:FLASH_LOCK	4	static
+../bootloader/src/flash.c:48:20:FLASH_CLEAR_ERROR_FLAGS	4	static
+../bootloader/src/flash.c:54:20:FLASH_CLEAR_EOP	4	static
+../bootloader/src/flash.c:60:16:FLASH_WaitForLastOperation	24	static
+../bootloader/src/flash.c:86:10:FLASH_ADDRESS_TO_PAGE	16	static
+../bootloader/src/flash.c:95:16:FLASH_ERASE_PAGE	32	static
+../bootloader/src/flash.c:124:16:FLASH_ERASE_PAGES	24	static
+../bootloader/src/flash.c:137:16:FLASH_PROGRAM_DOUBLE_WORD	32	static
+../bootloader/src/flash.c:169:16:FLASH_PROGRAM_BUFFER_DW	336	static
