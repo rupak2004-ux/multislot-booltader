@@ -1,0 +1,11 @@
+../bootloader/src/stm32l476xx_gpio.c:14:6:GPIO_INIT	6
+../bootloader/src/stm32l476xx_gpio.c:81:6:GPIO_DEINIT	10
+../bootloader/src/stm32l476xx_gpio.c:125:6:GPIO_PERI_CTRL	20
+../bootloader/src/stm32l476xx_gpio.c:209:9:GPIO_READ_INPUT_PIN	1
+../bootloader/src/stm32l476xx_gpio.c:215:9:GPIO_READ_INPUT_PORT	1
+../bootloader/src/stm32l476xx_gpio.c:222:6:GPIO_WRITE_TO_INPUT_PIN	2
+../bootloader/src/stm32l476xx_gpio.c:235:6:GPIO_WRITE_TO_INPUT_PORT	1
+../bootloader/src/stm32l476xx_gpio.c:239:6:GPIO_TOGGLE_PIN	1
+../bootloader/src/stm32l476xx_gpio.c:245:6:IRQ_INTERRUPT_CONFIG	12
+../bootloader/src/stm32l476xx_gpio.c:289:6:IRQ_PRIORITY	1
+../bootloader/src/stm32l476xx_gpio.c:297:6:IRQ_HANDLING	2
