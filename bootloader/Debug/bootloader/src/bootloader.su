@@ -1,0 +1,5 @@
+../bootloader/src/bootloader.c:15:13:delay	24	static
+../bootloader/src/bootloader.c:27:6:USART2_GPIOInit	24	static
+../bootloader/src/bootloader.c:46:6:USART2_Init	8	static
+../bootloader/src/bootloader.c:66:6:jmp_to_default	24	static,ignoring_inline_asm
+../bootloader/src/bootloader.c:116:6:jump_to_app	32	static,ignoring_inline_asm

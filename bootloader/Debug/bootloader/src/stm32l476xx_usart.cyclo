@@ -1,0 +1,14 @@
+../bootloader/src/stm32l476xx_usart.c:15:6:USART_INIT	9
+../bootloader/src/stm32l476xx_usart.c:84:6:USART_DEINIT	6
+../bootloader/src/stm32l476xx_usart.c:109:6:USART_PER_CLK_CTRL	12
+../bootloader/src/stm32l476xx_usart.c:160:6:USART_SEND_DATA	6
+../bootloader/src/stm32l476xx_usart.c:199:6:USART_REC_DATA	6
+../bootloader/src/stm32l476xx_usart.c:244:6:USART_PeripheralControl	2
+../bootloader/src/stm32l476xx_usart.c:255:9:USART_GetFlagStatus	2
+../bootloader/src/stm32l476xx_usart.c:263:6:USART_SetBaudRate	3
+../bootloader/src/stm32l476xx_usart.c:295:9:USART_SEND_DATA_IT	2
+../bootloader/src/stm32l476xx_usart.c:315:10:USART_REC_DATA_IT	2
+../bootloader/src/stm32l476xx_usart.c:335:6:USART_IRQInterruptConfig	12
+../bootloader/src/stm32l476xx_usart.c:375:6:USART_IRQPriorityConfig	1
+../bootloader/src/stm32l476xx_usart.c:388:6:USART_IRQHandling	30
+../bootloader/src/stm32l476xx_usart.c:672:13:USART_ApplicationEventCallback	1

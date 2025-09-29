@@ -1,0 +1,4 @@
+../bootloader/src/stm32l476_rcc.c:10:17:RCC_GetMSIClock	13
+../bootloader/src/stm32l476_rcc.c:33:11:RCC_GetPLLOutputClock	5
+../bootloader/src/stm32l476_rcc.c:57:10:RCC_GetPCLK1Value	7
+../bootloader/src/stm32l476_rcc.c:88:10:RCC_GetPCLK2Value	7

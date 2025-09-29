@@ -1,0 +1,8 @@
+../Src/multislot_boot.c:71:6:GPIO_ButtonInit	32	static
+../Src/multislot_boot.c:96:5:btn_state	8	static
+../Src/multislot_boot.c:108:6:delays	16	static
+../Src/multislot_boot.c:132:5:main	8	static
+../Src/multislot_boot.c:176:6:USART2_IRQHandler	8	static
+../Src/multislot_boot.c:180:13:proces_bt_cmd	16	static
+../Src/multislot_boot.c:203:13:usart_callback	8	static
+../Src/multislot_boot.c:218:6:USART_ApplicationEventCallback	16	static
