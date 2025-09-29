@@ -1,0 +1,8 @@
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32l476rgtx.o"
+"./bootloader/src/flash.o"
+"./bootloader/src/stm32l476_rcc.o"
+"./bootloader/src/stm32l476xx_gpio.o"
+"./bootloader/src/stm32l476xx_usart.o"
